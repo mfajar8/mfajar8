@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP, SQL etc.**
 
-- 📫 How to reach me? just send mail to -> **mfajar16@gmail.com**
+- 📫 How to reach me? just send mail to **mfajar16@gmail.com**
 
-- 📄 Know about my experiences [s.id/DJ42x)
+- 📄 For more about my experiences, you can find more [here](https://s.id/DJ42x)
 
 - ⚡ Fun fact **Since I was an IT Support guy, I can help with Hardware, Software, and Network Troubleshooting. I also an expert on Microsoft Offices.**
 
