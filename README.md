@@ -11,7 +11,7 @@
 
 - 📫 How to reach me? just send mail to -> **mfajar16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N_HhOL83P3keKWEAQm1l--9pCcY7gDY5/view?usp=sharing](https://drive.google.com/file/d/1N_HhOL83P3keKWEAQm1l--9pCcY7gDY5/view?usp=sharing)
+- 📄 Know about my experiences [s.id/DJ42x)
 
 - ⚡ Fun fact **Since I was an IT Support guy, I can help with Hardware, Software, and Network Troubleshooting. I also an expert on Microsoft Offices.**
 
