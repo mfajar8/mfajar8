@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mochamad Fajar Ismatulloh</h1>
+<h1 align="center">Mochamad Fajar Ismatulloh</h1>
 <h3 align="center">With a strong background in web development, I leverage Laravel for building robust back-end systems and JavaScript frameworks to deliver dynamic front-end experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfajar8&label=Profile%20views&color=0e75b6&style=flat" alt="mfajar8" /> </p>
