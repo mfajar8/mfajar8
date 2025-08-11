@@ -13,7 +13,7 @@
 
 - 📄 For more about my experiences, you can find more [here](https://s.id/DJ42x)
 
-- ⚡ Fun fact **Since I was an IT Support guy, I can help with Hardware, Software, and Network Troubleshooting. I also an expert on Microsoft Offices.**
+- ⚡ Fun fact, **I was an IT Support guy, so I can help with Hardware, Software, and Network Troubleshooting and many more. I also an expert on Microsoft Offices.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
